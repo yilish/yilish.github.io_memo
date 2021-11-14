@@ -1,6 +1,6 @@
 # Yili's Homepage
 
-Hello, I'm Yili Shen, and I'm a third-year undergrad at School of Software Engineering 💻, Tongji University, supervised by A. Prof. Hongfei Fan.
+Hello, I'm Yili Shen, and I'm a third-year undergrad at School of Software Engineering 💻, Tongji University, advised by A. Prof. Hongfei Fan.
 
 
 I've also learned a lot about chemistry 🧑‍🔬 theories in middle school and took chemical engineering as my major in my freshman year in Tongji University. Meanwhile, I joined [Lin Group](https://elements.chem.umass.edu/zlinqcgroup/) to do quantum chemistry research via machine learning view since 2021 summer.
