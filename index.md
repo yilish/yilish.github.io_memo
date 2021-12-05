@@ -1,7 +1,7 @@
 # Yili's Homepage
 
 ### Dec 5th update:
-I've successfully applied a umass email account! You can also contact me thru yilish [at] umass [dot] edu.
+I've successfully applied a umass email account! You can also contact me thru yilishen [at] umass [dot] edu.
 
 Hello, I'm Yili Shen, and I'm a third-year undergrad at School of Software Engineering 💻, Tongji University, advised by A. Prof. Hongfei Fan.
 
@@ -11,4 +11,5 @@ I've also learned a lot about chemistry 🧑‍🔬 theories in middle school an
 I have a broad interest in computer science with particular interest in graph representation learning, which is a powerful tool to unearth everything beneath the chemical structures, and also an interesting way to solve NLP / network problems.
 
 **Contact:** ✉️ 1851009 [at] tongji [dot] edu [dot] cn
+✉️ yilishen [at] umass [dot] edu
 
