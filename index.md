@@ -1,5 +1,8 @@
 # Yili's Homepage
 
+### Dec 5th update:
+I've successfully applied a umass email account! You can also contact me thru yilish [at] umass [dot] edu.
+
 Hello, I'm Yili Shen, and I'm a third-year undergrad at School of Software Engineering 💻, Tongji University, advised by A. Prof. Hongfei Fan.
 
 
