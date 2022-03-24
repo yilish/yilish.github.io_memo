@@ -1,6 +1,13 @@
 # Yili's Homepage
 
-### Dec 5th update:
+### Mar 24th, 2021 Update:
+
+My work *Accelerating many\-body expansion theory through GCN\-based deep learning approaches* was selected as an ACS Spring - Poster Session work!
+![Slide1](https://user-images.githubusercontent.com/50574898/159837098-a6b410b1-78f9-437f-bfe0-dbc428377821.jpeg)
+
+
+
+### Dec 5th, 2021 update:
 I've successfully applied a umass email account! You can also contact me thru yilishen [at] umass [dot] edu.
 
 Hello, I'm Yili Shen, and I'm a third-year undergrad at School of Software Engineering 💻, Tongji University, advised by A. Prof. Hongfei Fan.
