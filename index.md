@@ -1,5 +1,6 @@
 # Yili's Homepage
 ## Profile
+<img src="https://user-images.githubusercontent.com/50574898/159838036-c00a8040-e5d1-499f-9280-3ab13f943e6a.jpg" width="20%">
 
 Hello, I'm Yili Shen, and I'm a third-year undergrad at School of Software Engineering 💻, Tongji University, advised by A. Prof. Hongfei Fan.
 
