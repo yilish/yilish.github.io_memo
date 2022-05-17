@@ -2,12 +2,12 @@
 ## Profile
 <img src="https://user-images.githubusercontent.com/50574898/159838036-c00a8040-e5d1-499f-9280-3ab13f943e6a.jpg" width="20%">
 
-Hello, I'm Yili Shen, and I'm a third-year undergrad at School of Software Engineering 💻, Tongji University, advised by A. Prof. Hongfei Fan.
+Hello, I'm Yili Shen, and I'm a third-year undergrad at School of Software Engineering 💻, Tongji University.
 
 
-I've also learned a lot about chemistry 🧑‍🔬 theories in middle school and took chemical engineering as my major in my freshman year in Tongji University. Meanwhile, I joined [Lin Group](https://elements.chem.umass.edu/zlinqcgroup/) to do quantum chemistry research via machine learning view since 2021 summer.
+I've also learned a lot about chemistry theories in high school, where I got first prize(top 1% in Shanghai) in Chinese Chemistry Olympiad(CChO). Thus, I took chemical engineering as my major in my freshman year in Tongji University. 
 
-I have a broad interest in computer science with particular interest in graph representation learning, which is a powerful tool to unearth everything beneath the chemical structures, and also an interesting way to solve NLP / network problems.
+I have a broad interest in computer science with particular interest in graph representation learning whose downstream tasks can be variant from bioinformatics to chemistry modeling. Currently, I'm a research assistant in UMass Amherst focusing on using graph neural network to model quantum chemistry systems, meanwhile, I joined Baidu. Inc as a research intern to do researches on using GNNs to augment the embedding of genes with omics and drug datasets.
 
 ### May 17, 2022 update:
 
