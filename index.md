@@ -11,7 +11,8 @@ I have a broad interest in computer science with particular interest in graph re
 
 ### Jul 16, 2022 update:
 My work Improving Subgraph Representation Learning via Multi-View Augmentation was selected in ICML AI4Science poster session!
-![Yili_ICMLAI4Science_Poster_v5](https://user-images.githubusercontent.com/50574898/179283894-f039eab9-5dc3-4f64-a524-9b96fba8f097.png)
+![Yili_ICMLAI4Science_Poster_v6](https://user-images.githubusercontent.com/50574898/179289308-13dbd8d2-3a59-41e6-84eb-ed9d42398815.jpg)
+
 See full paper at OpenReview: https://openreview.net/forum?id=xRcmpuNBwCX
 ### May 17, 2022 update:
 
