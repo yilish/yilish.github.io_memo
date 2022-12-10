@@ -31,5 +31,5 @@ I've successfully applied a umass email account! You can also contact me thru yi
 
 **Contact:** 
 
-✉️ yilishen@umass.edu
+✉️ yilishen [at] umass [dot] edu
 
