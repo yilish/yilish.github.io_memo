@@ -5,7 +5,7 @@
 Hello, I'm Yili Shen, and I'm a third-year undergrad at School of Software Engineering 💻, Tongji University.
 
 
-I've also learned a lot about chemistry theories in high school, where I got first prize(top 1% nationwide) in Chinese Chemistry Olympiad (CChO). Thus, I took chemistry as my major in my freshman year in Tongji University. 
+I've also learned a lot about chemistry theories in high school, where I got first prize (top 1% nationwide) in Chinese Chemistry Olympiad (CChO). Thus, I took chemistry as my major in my freshman year in Tongji University. 
 
 I have a broad interest in computer science with particular interest in graph representation learning whose downstream tasks can be variant from bioinformatics to chemistry modeling. Currently, I'm a research assistant in UMass Amherst focusing on using graph neural network to model quantum chemistry systems, meanwhile, I joined Baidu. Inc as a research intern to do researches on using GNNs to augment the embedding of genes with omics and drug datasets.
 
